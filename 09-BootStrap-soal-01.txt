@@ -1,0 +1,25 @@
+### Soal - 01
+Kamu diminta untuk melakukan analisa sederhana terhadap beberapa masalah dan tuliskan jawaban kamu di dalam file `08-bootstrap-soal-01.txt`.
+1. Apa itu `CSS Framework`?
+-> hasil formula atau kumpulan codingan website yang telah siap digunakan.
+
+2. Apakah `bootstrap` satu-satunya `CSS Framework` yang dapat kita gunakan?
+-> tidak, masih ada banyak lagi.
+
+3. Sebutkan beberapa `CSS Framework` selain Bootstrap
+-> - Foundation
+    - Bulma
+    - Semantic UI
+    - UIKit
+    - Materialize CSS
+    - Milligram
+    - PureCSS
+    - Skeleton
+    - Tailwind
+
+4. Bagaimana tata cara penggunaan Bootstrap?
+-> 1. Instalasi Bootstrap : Download Compiled CSS & JS
+    lalu ekstrak file CSS & JS kedalam folder yang sudah di sediakan dalam folder CSS & JS project kita.
+    lalu masukan kedalam href untuk CSS nya dan untuk JS nya donwload popper JS lalu masukan kedalam folder JS yang tadi dan masukan kedalam Script Src.
+
+-> 2. Menggunakan secara online : copy code link href CSS dan Script Src milik JS 
